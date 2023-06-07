@@ -1,0 +1,23 @@
+table,tr,th,td{
+    border: 1px solid #000;
+}
+.row1 .text{
+    background-color: #FCA32E;
+    display: flex;
+    justify-content: center;
+}
+.row2 .text{
+    background-color: #2ED02D;
+    display: flex;
+    justify-content: center;
+}
+.row3 .text{
+    background-color: #178018;
+    display: flex;
+    justify-content: center;
+}
+.row4 .text{
+    background-color: #FFF041;
+    display: flex;
+    justify-content: center;
+}
